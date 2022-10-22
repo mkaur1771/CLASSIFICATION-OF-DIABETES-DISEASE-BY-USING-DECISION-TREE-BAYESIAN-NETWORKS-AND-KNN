@@ -1,1 +1,5 @@
-# CLASSIFICATION-OF-DIABETES-DISEASE-BY-USING-DECISION-TREE-BAYESIAN-NETWORKS-AND-KNN
+# CLASSIFICATION OF DIABETES DISEASE BY USING DECISION TREE BAYESIAN NETWORKS AND KNN
+Diabetes Mellitus also called diabetes, is a term for several conditions involving how your body turns food into energy. When you eat a carbohydrate, your body turns it into a sugar called glucose and sends that to your bloodstream. Your pancreas releases insulin, a hormone that helps move glucose from your blood into your cells, which use it for energy. When you have diabetes and don’t get treatment, your body doesn’t use insulin like it should. Too much glucose stays in your blood, a condition usually called high blood sugar. This can cause health problems that may be serious or even life-threatening.
+
+Ongoing overviews by the World Health Organization demonstrated a huge expansion in diabetic patients and the death credited to diabetes consistently. Thus, early conclusion of diabetes is a huge worry among analysts and clinical professionals. The objective of the project work is to build three classification framework using Decision Tree, Naïve Bayes and KNN, which can individually predict whether a patient is having Diabetic or not from the patient data and finally compare the classification accuracy of the three classifiers.
+
